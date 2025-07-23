@@ -104,6 +104,6 @@ Ensure each image clearly shows the person's face.
 MIT License
 
 👨‍💻 Author
-Your Name
+Avnoor Singh
 Computer Vision Enthusiast
 Open for collaboration!
